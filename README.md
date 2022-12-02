@@ -9,3 +9,4 @@ Listado de piezas con sus pesos y tiempos de fabricación:
 6) Manilla (1 unidad) 
 7) Tope tornillo (1 unidad)
 
+
